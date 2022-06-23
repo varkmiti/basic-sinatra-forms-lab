@@ -8,9 +8,9 @@ display the data from the form after it has been submitted by the user.
 
 ## Instructions
 
-1. Run `bundle install`
+1. Run `bundle install` !DONE
 
-2. Run `shotgun`
+2. Run `shotgun`!DONE
 
 3. Make a form
 
